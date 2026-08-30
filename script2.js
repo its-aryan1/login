@@ -66,7 +66,7 @@ loginForm.addEventListener("submit", async (e) => {
       alert("Login Successful!");
 
       // redirect to welcome page
-      window.location.href = "welcome.html";
+      window.location.href = "https://myportfolioyt.netlify.app";
 
     } else {
       alert("Invalid Email or Password!");
